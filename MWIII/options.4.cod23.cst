@@ -176,10 +176,10 @@ MapLocationSelectionCursorSpeedMouse:0.0 = "0.600000" // 0.001000 to 2.000000
 //
 
 // Fullscreen mode
-DisplayMode:0.0 = "Fullscreen" // one of [Windowed, Fullscreen, Fullscreen borderless window, Fullscreen borderless extended window]
+DisplayMode:0.0 = "Fullscreen borderless window" // one of [Windowed, Fullscreen, Fullscreen borderless window, Fullscreen borderless extended window]
 
 // Fullscreen mode preference
-PreferredDisplayMode:0.0 = "Fullscreen" // one of [Fullscreen, Fullscreen borderless window, Fullscreen borderless extended window]
+PreferredDisplayMode:0.0 = "Fullscreen borderless window" // one of [Fullscreen, Fullscreen borderless window, Fullscreen borderless extended window]
 
 // Constrain mouse to game window
 ConstrainMouse:0.0 = "false"
@@ -348,7 +348,7 @@ DeferredPhysics:0.0 = "Low Quality" // one of [Low Quality, Medium Quality, High
 PersistentDamageLayer:0.0 = "false"
 
 // Number of ST LOD to skip
-STLodSkip:0.0 = "5" // 0 to 5
+STLodSkip:0.0 = "0" // 0 to 5
 
 // Select water caustics mode
 WaterCausticsMode:0.0 = "Off" // one of [Off, Low Quality, High Quality]
