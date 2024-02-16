@@ -366,7 +366,7 @@ WaterWaveWetness:0.0 = "false"
 ReflectionProbeHalfResolution:0.0 = "true"
 
 // Sets which memory mode to use for physical textures. 0:Extra small (11x11, 121 slots), 1:Small (16x16, 256 slots), 2:Medium (23x23, 529 slots), 3:Large (32x32, 1024 slots), 4:Extra large (45x45, 2025 slots). 
-VirtualTexturingMemoryMode:0.1 = "Extra Large" // one of [Extra Small, Small, Medium, Large, Extra Large]
+VirtualTexturingMemoryMode:0.1 = "Large" // one of [Extra Small, Small, Medium, Large, Extra Large]
 
 // Select weather grid volumes quality
 WeatherGridVolumesQuality:0.0 = "Off" // one of [Ultra, High, Medium, Low, Off]
