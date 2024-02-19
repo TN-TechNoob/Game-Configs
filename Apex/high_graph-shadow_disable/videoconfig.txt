@@ -43,4 +43,5 @@
 	"setting.gamma"		"1.000000"
 	"setting.configversion"		"7"
 	"setting.dx_version_check_timestamp"		"0"
+	"setting.set_dress_level"		"1"
 }

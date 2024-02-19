@@ -39,8 +39,9 @@
 	"setting.csm_cascade_res"		"512"
 	"setting.fadeDistScale"		"1.000000"
 	"setting.dvs_supersample_enable"		"0"
-	"setting.new_shadow_settings"		"0"
+	"setting.new_shadow_settings"		"1"
 	"setting.gamma"		"1.000000"
 	"setting.configversion"		"7"
 	"setting.dx_version_check_timestamp"		"0"
+	"setting.set_dress_level"		"1"
 }
