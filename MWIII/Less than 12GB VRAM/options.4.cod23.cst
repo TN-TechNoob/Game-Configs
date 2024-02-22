@@ -5,7 +5,7 @@
 //
 
 // Set a target fraction of your PC's video memory to be used by the game
-VideoMemoryScale:1.0 = "0.900000" // 0.000000 to 2.000000
+VideoMemoryScale:1.0 = "0.700000" // 0.000000 to 2.000000
 
 // Thread count for handling the job queue
 RendererWorkerCount:1.0 = "" // -1 to 16
@@ -142,16 +142,16 @@ MaxFpsOutOfFocus:0.0 = "300" // 5 to 300
 DepthOfField:0.0 = "false"
 
 // maximum number of AI corpses
-CorpseLimit:0.0 = "0" // 0 to 28
+CorpseLimit:0.0 = "1" // 0 to 28
 
 // Show blood effects
-ShowBlood:0.0 = "false"
+ShowBlood:0.0 = "true"
 
 // Limit blood effects (to 'prevent excess blood stacking')
 BloodLimit:0.0 = "true"
 
 // When limiting blood effects, number of milliseconds between effects.
-BloodLimitInterval:0.0 = "1" // 1 to 2000
+BloodLimitInterval:0.0 = "330" // 1 to 2000
 
 // Weapons eject brass
 ShowBrass:0.0 = "false"
