@@ -142,10 +142,10 @@ MaxFpsOutOfFocus:0.0 = "300" // 5 to 300
 DepthOfField:0.0 = "false"
 
 // maximum number of AI corpses
-CorpseLimit:0.0 = "1" // 0 to 28
+CorpseLimit:0.0 = "0" // 0 to 28
 
 // Show blood effects
-ShowBlood:0.0 = "true"
+ShowBlood:0.0 = "false"
 
 // Limit blood effects (to 'prevent excess blood stacking')
 BloodLimit:0.0 = "true"
@@ -366,7 +366,7 @@ WaterWaveWetness:0.0 = "false"
 ReflectionProbeHalfResolution:0.0 = "true"
 
 // Sets which memory mode to use for physical textures. 0:Extra small (11x11, 121 slots), 1:Small (16x16, 256 slots), 2:Medium (23x23, 529 slots), 3:Large (32x32, 1024 slots), 4:Extra large (45x45, 2025 slots). 
-VirtualTexturingMemoryMode:0.1 = "Large" // one of [Extra Small, Small, Medium, Large, Extra Large]
+VirtualTexturingMemoryMode:0.1 = "Extra Large" // one of [Extra Small, Small, Medium, Large, Extra Large]
 
 // Select weather grid volumes quality
 WeatherGridVolumesQuality:0.0 = "Off" // one of [Ultra, High, Medium, Low, Off]
